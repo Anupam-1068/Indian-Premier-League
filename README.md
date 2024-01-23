@@ -1,2 +1,2 @@
-# Indian-Premium-League
-Data Analysis on Indian premium league using python and sql
+# Indian-Premier-League
+Data Analysis on Indian premier league using python and sql
