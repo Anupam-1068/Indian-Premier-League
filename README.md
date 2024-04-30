@@ -2,11 +2,12 @@
 Data Analysis on Indian premier league using python and sql
 
 
-**Overview**
+## Overview
+
 This repository contains an analysis of the IPL (Indian Premier League) dataset using both Python and SQL. The analysis covers various aspects such as displaying information about different batsmen and teams, identifying the maximum and minimum number of balls faced by any batter, determining matches won by each team, identifying the top 5 wicket takers and top 5 scorers in IPL 2022, calculating total runs made by every player throughout the tournament, and visualizing data through plotting graphs.
 
-**Findings**
-**SQL**
+## Findings
+#### SQL
 Structured Query Language (SQL) is a standardized programming language commonly used to manage relational databases and perform operations on the data stored within them. Key findings related to SQL analysis include:
 
 **Data Management**: SQL provides a robust framework for gathering, manipulating, and extracting data from relational databases.
